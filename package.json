@@ -1,0 +1,8 @@
+{
+  "name": "carepoint-hospital-management",
+  "version": "1.0.0",
+  "description": "Hospital patient management CRUD using Express and MySQL",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "mysql2": "^3.14.0"}
+}
